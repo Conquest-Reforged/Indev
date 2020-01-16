@@ -2,7 +2,7 @@
 name: "[TerraForged] Compatibility Report"
 about: This template is for compatibility issues between TerraForged and other mods. If you are experiencing bugs within the TerraForged mod itself please use our "Bug Report" template.
 title: ''
-labels: TerraForged, Compatibility
+labels: TerraForged, Incompatibility
 assignees: ''
 
 ---
