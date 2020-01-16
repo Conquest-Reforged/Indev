@@ -1,10 +1,10 @@
 ---
-name: "[Conquest Reforged] Bug Report"
-about: This template is for bugs within the Conquest Reforged mod itself. If you are
-  experiencing compatibility issues between Conquest Reforged and other mods please
+name: "[TerraForged] Bug Report"
+about: This template is for bugs within the TerraForged mod itself. If you are
+  experiencing compatibility issues between TerraForged and other mods please
   use our "Compatibility Report" template.
 title: ''
-labels: Bug, Conquest Reforged
+labels: TerraForged, Bug
 assignees: ''
 
 ---
