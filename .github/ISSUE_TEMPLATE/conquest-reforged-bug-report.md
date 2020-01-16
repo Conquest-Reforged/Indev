@@ -4,7 +4,7 @@ about: This template is for bugs within the Conquest Reforged mod itself. If you
   experiencing compatibility issues between Conquest Reforged and other mods please
   use our "Compatibility Report" template.
 title: ''
-labels: Bug, Conquest Reforged
+labels: Conquest Reforged, Bug
 assignees: ''
 
 ---
