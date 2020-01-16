@@ -1,5 +1,5 @@
 ---
-name: "[Conquest Reforged] Bug report"
+name: "[Conquest Reforged] Compatibility Report"
 about: This template is for bugs within the Conquest Reforged mod itself. If you are
   experiencing compatibility issues between Conquest Reforged and other mods please
   use our "Compatibility Report" template.
