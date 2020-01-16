@@ -10,7 +10,7 @@ assignees: ''
 ---
 
 **Mod Version & Build Number**    
-The specific mod & it's version in question.    
+The specific mod & its version in question.    
 You can copy-paste the mod jar's filename here.
 
 **Describe the bug**    
