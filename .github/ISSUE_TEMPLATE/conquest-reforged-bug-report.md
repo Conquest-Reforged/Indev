@@ -5,7 +5,7 @@ about: This template is for bugs within the Conquest Reforged mod itself. If you
   use our "Compatibility Report" template.
 title: ''
 labels: Conquest Reforged, Bug
-assignees: ''
+assignees: dags-, HIPPOKLEIDES
 
 ---
 
