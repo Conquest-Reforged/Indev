@@ -5,7 +5,7 @@ about: This template is for bugs within the TerraForged mod itself. If you are
   use our "Compatibility Report" template.
 title: ''
 labels: TerraForged, Bug
-assignees: ''
+assignees: dags-, HIPPOKLEIDES
 
 ---
 
