@@ -7,19 +7,19 @@ assignees: ''
 
 ---
 
-**Mod Version & Build Number**    
-The specific mod & its version in question.    
+**Mod Version & Build Number (of both mods)**    
+The specific mods & its version in question.    
 You can copy-paste the mod jar's filename here.
 
-**Describe the bug**    
-A clear and concise description of what the bug is.
+**Describe the Compatibility Issue**    
+A clear and concise description of what the incompatibility is.
 
 **Crash Log**    
 If your game crashed please upload a crash log (pastebin.com being the preferred method).
 
 **Screenshots/Video**    
-Provide screenshots or video to aid your bug description.
-These are essential for visual bugs.
+Provide screenshots or video to aid your description.
+These are essential for visual issues.
 
 **System Information (optional)**    
 Total RAM:    
