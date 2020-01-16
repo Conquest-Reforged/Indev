@@ -2,7 +2,7 @@
 name: "[Conquest Reforged] Compatibility Report"
 about: This template is for compatibility issues between Conquest Reforged and other mods. If you are experiencing bugs within the Conquest Reforged mod itself please use our "Bug Report" template.
 title: ''
-labels: Compatibility, Conquest Reforged
+labels: Conquest Reforged, Compatibility
 assignees: ''
 
 ---
