@@ -1,6 +1,6 @@
 ---
-name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
-about: Suggest a mechanic or enhancement for creative mode.
+name: "[Conquest Reforged] Texture/Asset Suggestion"
+about: Suggest a texture or asset for Conquest Reforged.
 title: ''
 labels: ''
 assignees: HIPPOKLEIDES, CreativeRealms
