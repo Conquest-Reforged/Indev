@@ -1,6 +1,6 @@
 ---
-name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
-about: Suggest a mechanic or enhancement for creative mode.
+name: "[TerraForged] Survival Mechanic/Enhancement Suggestion"
+about: Suggest a mechanic or enhancement for survival mode.
 title: ''
 labels: ''
 assignees: HIPPOKLEIDES, CreativeRealms
