@@ -7,14 +7,17 @@ assignees: HIPPOKLEIDES, CreativeRealms
 
 ---
 
-**Is your feature request related to a problem? Please describe.**
-A clear and concise description of what the problem is. Ex. I'm always frustrated when [...]
+**Describe your suggestion**    
+A clear and concise description of your suggestion.
 
-**Describe the solution you'd like**
-A clear and concise description of what you want to happen.
+**Explain why you think your suggestion should be added**    
+Give a few reasons why you think your suggestion would be beneficial to the mod and community along with possible use cases if applicable.
 
-**Describe alternatives you've considered**
+**Explain how you think your suggestion can best be implemented**    
+Give a detailed description how to best add your suggestion including the use of screenshots if available.
+
+**Describe alternatives you've considered**    
 A clear and concise description of any alternative solutions or features you've considered.
 
-**Additional context**
+**Additional context**    
 Add any other context or screenshots about the feature request here.
