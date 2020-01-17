@@ -3,7 +3,7 @@ name: "[Conquest Reforged] Texture/Asset Suggestion"
 about: Suggest a texture or asset for Conquest Reforged.
 title: ''
 labels: ''
-assignees: HIPPOKLEIDES, CreativeRealms
+assignees: Monsterfisch, ArtemisiaTR
 
 ---
 
