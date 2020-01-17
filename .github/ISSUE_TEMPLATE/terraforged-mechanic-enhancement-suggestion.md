@@ -2,7 +2,7 @@
 name: "[TerraForged] Mechanic/Enhancement Suggestion"
 about: Suggest a mechanic or enhancement for TerraForged.
 title: ''
-labels: TerraForged, Mechanic/Enhancement, Suggestion
+labels: TerraForged, Survival, Mechanic/Enhancement, Suggestion
 assignees: HIPPOKLEIDES, CreativeRealms
 
 ---
