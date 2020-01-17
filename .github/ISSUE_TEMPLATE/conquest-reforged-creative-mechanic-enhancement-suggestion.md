@@ -1,6 +1,6 @@
 ---
 name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
-about: This template is for creative mode mechanic/enhancement suggestions to Conquest Reforged.
+about: This template is for creative mode mechanic/enhancement suggestions for Conquest Reforged.
 title: ''
 labels: Conquest Reforged, Creative, Mechanic/Enhancement, Suggestion
 assignees: HIPPOKLEIDES, CreativeRealms
