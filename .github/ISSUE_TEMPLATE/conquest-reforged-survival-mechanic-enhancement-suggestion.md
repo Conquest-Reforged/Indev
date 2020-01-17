@@ -3,7 +3,7 @@ name: "[Conquest Reforged] Survival Mechanic/Enhancement Suggestion"
 about: Suggest a mechanic or enhancement for survival mode.
 title: ''
 labels: Conquest Reforged, Survival, Mechanic/Enhancement, Suggestion
-assignees: HIPPOKLEIDES, CreativeRealms
+assignees: HIPPOKLEIDES, CreativeRealms, Monsterfisch
 
 ---
 
