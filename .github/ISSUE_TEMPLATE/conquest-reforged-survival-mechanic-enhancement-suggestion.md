@@ -1,6 +1,6 @@
 ---
 name: "[Conquest Reforged] Survival Mechanic/Enhancement Suggestion"
-about: This template is for survival mode mechanic/enhancement suggestions to Conquest Reforged.
+about: This template is for survival mode mechanic/enhancement suggestions for Conquest Reforged.
 title: ''
 labels: Conquest Reforged, Survival, Mechanic/Enhancement, Suggestion
 assignees: HIPPOKLEIDES, CreativeRealms, Monsterfisch
