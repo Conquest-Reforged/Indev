@@ -1,6 +1,6 @@
 ---
-name: "[TerraForged] Survival Mechanic/Enhancement Suggestion"
-about: Suggest a mechanic or enhancement for survival mode.
+name: "[TerraForged] Mechanic/Enhancement Suggestion"
+about: Suggest a mechanic or enhancement for TerraForged.
 title: ''
 labels: ''
 assignees: HIPPOKLEIDES, CreativeRealms
