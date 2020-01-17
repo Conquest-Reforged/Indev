@@ -2,7 +2,7 @@
 name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
 about: Suggest a mechanic or enhancement for creative mode.
 title: ''
-labels: ''
+labels: Conquest Reforged, Creative, Mechanic/Enhancement
 assignees: HIPPOKLEIDES, CreativeRealms
 
 ---
