@@ -1,6 +1,6 @@
 ---
-name: "[Conquest Reforged] Texture/Asset Suggestion"
-about: Suggest a texture or asset for Conquest Reforged.
+name: "[Conquest Reforged] Texture/Asset Request"
+about: Request a texture or asset for Conquest Reforged.
 title: ''
 labels: Conquest Reforged, Texture/Asset, Suggestion
 assignees: Monsterfisch, ArtemisiaTR
