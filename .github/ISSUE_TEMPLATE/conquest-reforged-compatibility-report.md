@@ -11,6 +11,9 @@ assignees: dags-, HIPPOKLEIDES
 The specific mods & its version in question.    
 You can copy-paste the mod jar's filename here.
 
+**Forge Version**    
+The specific version of Forge you are currently using.
+
 **Describe the Compatibility Issue**    
 A clear and concise description of what the incompatibility is.
 
