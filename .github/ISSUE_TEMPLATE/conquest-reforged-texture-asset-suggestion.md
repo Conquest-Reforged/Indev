@@ -2,7 +2,7 @@
 name: "[Conquest Reforged] Texture/Asset Suggestion"
 about: Suggest a texture or asset for Conquest Reforged.
 title: ''
-labels: ''
+labels: Conquest Reforged, Texture/Asset, Suggestion
 assignees: Monsterfisch, ArtemisiaTR
 
 ---
