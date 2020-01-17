@@ -1,6 +1,6 @@
 ---
 name: "[TerraForged] Mechanic/Enhancement Suggestion"
-about: Suggest a mechanic or enhancement for TerraForged.
+about: This template is for mechanic/enhancement suggestions to TerraForged.
 title: ''
 labels: TerraForged, Survival, Mechanic/Enhancement, Suggestion
 assignees: HIPPOKLEIDES, CreativeRealms, dags-, Monsterfisch
