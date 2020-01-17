@@ -13,7 +13,7 @@ assignees: dags-, HIPPOKLEIDES
 The specific mod & its version in question.    
 You can copy-paste the mod jar's filename here.
 
-**Forge Version**
+**Forge Version**    
 The specific version of Forge you are currently using.
 
 **Describe the bug**    
