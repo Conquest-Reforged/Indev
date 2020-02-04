@@ -2,7 +2,7 @@
 name: "[Converter] Bug Report"
 about: This template is for bugs with the Conquest Reforged Converter.
 title: ''
-labels: Converter, Bug
+labels: Bug, Converter
 assignees: dags-, HIPPOKLEIDES
 
 ---

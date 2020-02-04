@@ -1,6 +1,8 @@
 ---
 name: "[Conquest Reforged] Compatibility Report"
-about: This template is for compatibility issues between Conquest Reforged and other mods. If you are experiencing bugs within the Conquest Reforged mod itself please use our "Bug Report" template.
+about: This template is for compatibility issues between Conquest Reforged and other
+  mods. If you are experiencing bugs within the Conquest Reforged mod itself please
+  use our "Bug Report" template.
 title: ''
 labels: Conquest Reforged, Incompatibility
 assignees: dags-, HIPPOKLEIDES

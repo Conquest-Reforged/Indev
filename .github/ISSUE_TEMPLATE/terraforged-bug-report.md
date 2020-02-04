@@ -1,10 +1,10 @@
 ---
 name: "[TerraForged] Bug Report"
-about: This template is for bugs within the TerraForged mod itself. If you are
-  experiencing compatibility issues between TerraForged and other mods please
-  use our "Compatibility Report" template.
+about: This template is for bugs within the TerraForged mod itself. If you are experiencing
+  compatibility issues between TerraForged and other mods please use our "Compatibility
+  Report" template.
 title: ''
-labels: TerraForged, Bug
+labels: Bug, TerraForged
 assignees: dags-, HIPPOKLEIDES
 
 ---
