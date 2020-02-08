@@ -1,24 +1,14 @@
 ---
-name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
-about: This template is for creative mode mechanic/enhancement suggestions for Conquest
-  Reforged.
+name: "[Conquest Reforged] To-Do"
+about: This template is for features that need to be added/completed before various releases.
 title: ''
-labels: Conquest Reforged, Creative, Suggestion
+labels: Conquest Reforged, Creative, To-Do
 assignees: dags-, HIPPOKLEIDES
 
 ---
 
-**Describe your suggestion**    
+**What needs to be done**    
 A clear and concise description of your suggestion.
-
-**Explain why you think your suggestion should be added**    
-Give a few reasons why you think your suggestion would be beneficial to the mod and community along with possible use cases if applicable.
-
-**Explain how you think your suggestion can best be implemented**    
-Give a detailed description how to best add your suggestion including the use of screenshots if available.
-
-**Describe alternatives you've considered**    
-A clear and concise description of any alternative solutions or features you've considered.
 
 **Additional context**    
 Add any other context or screenshots about the feature request here.
