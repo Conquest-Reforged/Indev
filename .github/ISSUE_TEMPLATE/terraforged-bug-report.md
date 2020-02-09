@@ -5,7 +5,7 @@ about: This template is for bugs within the TerraForged mod itself. If you are e
   Report" template.
 title: ''
 labels: Bug, TerraForged
-assignees: dags-, HIPPOKLEIDES
+assignees: dags-
 
 ---
 

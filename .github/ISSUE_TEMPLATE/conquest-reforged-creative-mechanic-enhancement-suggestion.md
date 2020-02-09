@@ -4,7 +4,7 @@ about: This template is for creative mode mechanic/enhancement suggestions for C
   Reforged.
 title: ''
 labels: Conquest Reforged, Creative, Suggestion
-assignees: dags-, HIPPOKLEIDES
+assignees: ''
 
 ---
 

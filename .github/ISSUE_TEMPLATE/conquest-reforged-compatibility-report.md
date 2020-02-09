@@ -5,7 +5,7 @@ about: This template is for compatibility issues between Conquest Reforged and o
   use our "Bug Report" template.
 title: ''
 labels: Conquest Reforged, Incompatibility
-assignees: dags-, HIPPOKLEIDES
+assignees: ''
 
 ---
 

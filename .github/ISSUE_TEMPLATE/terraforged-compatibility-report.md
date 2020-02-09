@@ -5,7 +5,7 @@ about: This template is for compatibility issues between TerraForged and other m
   Report" template.
 title: ''
 labels: Incompatibility, TerraForged
-assignees: dags-, HIPPOKLEIDES
+assignees: dags-
 
 ---
 
