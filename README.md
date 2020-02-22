@@ -16,11 +16,3 @@ Issue tracker for in-development mods
 ## **Converter**
 
 [Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=Converter%2C+Bug&template=converter-bug-report.md&title=)
-
-## **TerraForged**
-
-[Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=TerraForged%2C+Bug&template=terraforged-bug-report.md&title=)
-
-[Compatibility Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=TerraForged%2C+Incompatibility&template=terraforged-compatibility-report.md&title=)
-
-[Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=HIPPOKLEIDES%2C+CreativeRealms%2C+dags-%2C+Monsterfisch&labels=TerraForged%2C+Survival%2C+Mechanic%2FEnhancement%2C+Suggestion&template=terraforged-mechanic-enhancement-suggestion.md&title=)
