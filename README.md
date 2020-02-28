@@ -4,16 +4,22 @@ Make sure to check for duplicate reports before opening a new one.
 
 ## **Conquest Reforged**
 
-[Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES%2C+ArtemisiaTR%2C+Monsterfisch&labels=Conquest+Reforged%2C+Bug&template=conquest-reforged-bug-report.md&title=)
+[Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES%2C+ArtemisiaTR%2C+Monsterfisch&labels=Conquest+Reforged%2C+Bug&template=conquest-reforged-bug-report.md&title=)    
+This template is for bugs within the Conquest Reforged mod itself. If you are experiencing compatibility issues between Conquest Reforged and other mods please use our "Compatibility Report" template.
 
-[Compatibility Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=Conquest+Reforged%2C+Incompatibility&template=conquest-reforged-compatibility-report.md&title=)
+[Compatibility Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=Conquest+Reforged%2C+Incompatibility&template=conquest-reforged-compatibility-report.md&title=)    
+This template is for compatibility issues between Conquest Reforged and other mods. If you are experiencing bugs within the Conquest Reforged mod itself please use our "Bug Report" template.
 
-[Creative Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=HIPPOKLEIDES%2C+CreativeRealms&labels=Conquest+Reforged%2C+Creative%2C+Mechanic%2FEnhancement%2C+Suggestion&template=conquest-reforged-creative-mechanic-enhancement-suggestion.md&title=)
+[Creative Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=HIPPOKLEIDES%2C+CreativeRealms&labels=Conquest+Reforged%2C+Creative%2C+Mechanic%2FEnhancement%2C+Suggestion&template=conquest-reforged-creative-mechanic-enhancement-suggestion.md&title=)    
+This template is for creative mode mechanic/enhancement suggestions for Conquest Reforged.
 
-[Survival Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=HIPPOKLEIDES%2C+CreativeRealms%2C+Monsterfisch&labels=Conquest+Reforged%2C+Survival%2C+Mechanic%2FEnhancement%2C+Suggestion&template=conquest-reforged-survival-mechanic-enhancement-suggestion.md&title=)
+[Survival Mechanic/Enhancement Suggestion](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=HIPPOKLEIDES%2C+CreativeRealms%2C+Monsterfisch&labels=Conquest+Reforged%2C+Survival%2C+Mechanic%2FEnhancement%2C+Suggestion&template=conquest-reforged-survival-mechanic-enhancement-suggestion.md&title=)    
+This template is for survival mode mechanic/enhancement suggestions for Conquest Reforged.
 
-[Texture/Asset Request](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=Monsterfisch%2C+ArtemisiaTR&labels=Conquest+Reforged%2C+Texture%2FAsset%2C+Suggestion&template=conquest-reforged-texture-asset-request.md&title=)
+[Texture/Asset Request](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=Monsterfisch%2C+ArtemisiaTR&labels=Conquest+Reforged%2C+Texture%2FAsset%2C+Suggestion&template=conquest-reforged-texture-asset-request.md&title=)    
+This template is for texture/asset requests for Conquest Reforged.
 
 ## **Converter**
 
-[Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=Converter%2C+Bug&template=converter-bug-report.md&title=)
+[Bug Report](https://github.com/Conquest-Reforged/Indev/issues/new?assignees=dags-%2C+HIPPOKLEIDES&labels=Converter%2C+Bug&template=converter-bug-report.md&title=)    
+This template is for bugs with the Conquest Reforged Converter.
