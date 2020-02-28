@@ -1,5 +1,6 @@
 # Indev
-Issue tracker for in-development mods
+Issue tracker for in-development mods    
+Make sure to check for duplicate reports before opening a new one.
 
 ## **Conquest Reforged**
 
