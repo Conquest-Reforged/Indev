@@ -3,7 +3,7 @@ name: "[Conquest Reforged] Creative Mechanic/Enhancement Suggestion"
 about: This template is for creative mode mechanic/enhancement suggestions for Conquest
   Reforged.
 title: ''
-labels: Conquest Reforged, Creative, Suggestion
+labels: Conquest Reforged, Creative
 assignees: ''
 
 ---

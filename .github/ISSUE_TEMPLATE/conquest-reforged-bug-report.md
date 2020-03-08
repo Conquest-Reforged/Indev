@@ -23,8 +23,8 @@ A clear and concise description of what the bug is.
 If your game crashed please upload a crash log (pastebin.com being the preferred method).
 
 **Screenshots/Video**    
-Provide screenshots or video to aid your bug description.
-These are essential for visual bugs.
+Provide screenshots or video to aid your bug description.  
+If the issue relates to a block, please screenshot it with the `F3` debug menu upand your crosshair over the block you're reporting (this allows us to see exactly what blockstate is affected).
 
 **System Information (optional)**    
 Total RAM:    
