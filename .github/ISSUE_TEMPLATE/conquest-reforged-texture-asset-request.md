@@ -3,8 +3,6 @@ name: "[Conquest Reforged] Texture/Asset Request"
 about: This template is for texture/asset requests for Conquest Reforged.
 title: ''
 labels: Conquest Reforged, Texture/Asset
-assignees: ArtemisiaTR, Monsterfisch
-
 ---
 
 **Is your feature request related to a problem? Please describe.**
